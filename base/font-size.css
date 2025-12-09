@@ -1,0 +1,26 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --font-size-title-hero-size: var(--dimension-scale-10);
+  --font-size-title-page-size-small: var(--dimension-scale-07);
+  --font-size-title-page-size-base: var(--dimension-scale-08);
+  --font-size-title-page-size-large: var(--dimension-scale-09);
+  --font-size-subtitle-size-small: var(--dimension-scale-05);
+  --font-size-subtitle-size-base: var(--dimension-scale-06);
+  --font-size-subtitle-size-large: var(--dimension-scale-07);
+  --font-size-heading-size-small: var(--dimension-scale-04);
+  --font-size-heading-size-base: var(--dimension-scale-05);
+  --font-size-heading-size-large: var(--dimension-scale-06);
+  --font-size-subheading-size-small: var(--dimension-scale-03);
+  --font-size-subheading-size-medium: var(--dimension-scale-04);
+  --font-size-subheading-size-large: var(--dimension-scale-05);
+  --font-size-body-size-small: var(--dimension-scale-02);
+  --font-size-body-size-medium: var(--dimension-scale-03);
+  --font-size-body-size-large: var(--dimension-scale-04);
+  --font-size-code-size-small: var(--font-size-body-size-small);
+  --font-size-code-size-base: var(--font-size-body-size-medium);
+  --font-size-code-size-large: var(--font-size-body-size-large);
+}

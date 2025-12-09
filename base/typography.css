@@ -1,0 +1,22 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  /* Used for any text element where you need 100% line height. For example, an input field, a label. */
+  --typography-single-line-body-base: 400 16px/100% "Inter";
+  --typography-title-hero: 700 72px/120% "Inter";
+  --typography-title-page: 700 48px/120% "Inter";
+  --typography-subtitle: 400 32px/120% "Inter";
+  --typography-heading: 600 24px/120% "Inter";
+  --typography-subheading: 400 20px/120% "Inter";
+  --typography-body-base: 400 16px/140% "Inter";
+  --typography-body-strong: 600 16px/140% "Inter";
+  --typography-body-emphasis: 400 16px/140% "Inter";
+  --typography-body-link: 400 16px/140% "Inter";
+  --typography-body-small: 400 14px/140% "Inter";
+  --typography-body-small-strong: 600 14px/140% "Inter";
+  --typography-body-code: 400 16px/130% "Roboto Mono";
+  --typography-single-line-body-small-strong: 600 14px/100% "Inter";
+}
