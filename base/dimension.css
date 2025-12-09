@@ -1,0 +1,55 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --dimension-scale-01: 12px;
+  --dimension-scale-02: 14px;
+  --dimension-scale-03: 16px;
+  --dimension-scale-04: 20px;
+  --dimension-scale-05: 24px;
+  --dimension-scale-06: 32px;
+  --dimension-scale-07: 40px;
+  --dimension-scale-08: 48px;
+  --dimension-scale-09: 64px;
+  --dimension-scale-10: 72px;
+  --dimension-weight-thin: 100px;
+  --dimension-weight-extra-light: 200px;
+  --dimension-weight-light: 300px;
+  --dimension-weight-regular: 400px;
+  --dimension-weight-medium: 500px;
+  --dimension-weight-semibold: 600px;
+  --dimension-weight-bold: 700px;
+  --dimension-weight-extra-bold: 800px;
+  --dimension-weight-black: 900px;
+  --dimension-scale: 1px;
+  --dimension-blur-100: 4px;
+  --dimension-depth-0: 0px;
+  --dimension-depth-025: 1px;
+  --dimension-depth-100: 4px;
+  --dimension-depth-200: 8px;
+  --dimension-depth-400: 16px;
+  --dimension-depth-800: 32px;
+  --dimension-depth-1200: 48px;
+  --dimension-depth-negative-025: -1px;
+  --dimension-depth-negative-100: -4px;
+  --dimension-depth-negative-200: -8px;
+  --dimension-depth-negative-400: -16px;
+  --dimension-depth-negative-800: -32px;
+  --dimension-depth-negative-1200: -48px;
+  --dimension-stroke-border: 1px;
+  --dimension-stroke-focus-ring: 2px;
+  --dimension-icon-small: 24px;
+  --dimension-icon-medium: 32px;
+  --dimension-icon-large: 40px;
+  --dimension-root-font-size: var(--dimension-scale-03);
+  --dimension-title-hero-font-weight: var(--dimension-weight-bold);
+  --dimension-title-page-font-weight: var(--dimension-weight-bold);
+  --dimension-subtitle-font-weight: var(--dimension-weight-regular);
+  --dimension-heading-font-weight: var(--dimension-weight-semibold);
+  --dimension-subheading-font-weight: var(--dimension-weight-regular);
+  --dimension-body-font-weight-regular: var(--dimension-weight-regular);
+  --dimension-body-font-weight-strong: var(--dimension-weight-semibold);
+  --dimension-code-font-weight: var(--dimension-body-font-weight-regular);
+}

@@ -1,0 +1,17 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  --font-family-sans: "Inter";
+  --font-family-serif: "Noto Serif";
+  --font-family-mono: "Roboto Mono";
+  --font-family-title-hero-font-family: var(--font-family-sans);
+  --font-family-title-page-font-family: var(--font-family-sans);
+  --font-family-subtitle-font-family: var(--font-family-sans);
+  --font-family-heading-font-family: var(--font-family-sans);
+  --font-family-subheading-font-family: var(--font-family-sans);
+  --font-family-body-font-family: var(--font-family-sans);
+  --font-family-code-font-family: var(--font-family-mono);
+}

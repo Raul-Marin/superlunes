@@ -1,0 +1,25 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  --space-0: 0px;
+  --space-050: 2px;
+  --space-100: 4px;
+  --space-150: 6px;
+  --space-200: 8px;
+  --space-300: 12px;
+  --space-400: 16px;
+  --space-600: 24px;
+  --space-800: 32px;
+  --space-1200: 48px;
+  --space-1600: 64px;
+  --space-2400: 96px;
+  --space-4000: 160px;
+  --space-negative-100: 0px;
+  --space-negative-200: 0px;
+  --space-negative-300: 0px;
+  --space-negative-400: 0px;
+  --space-negative-600: 0px;
+}

@@ -1,0 +1,19 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --shadow-drop-shadow-100: 0px 1px 4px 0px #0c0c0d0d;
+  --shadow-drop-shadow-200: 0px 1px 4px 0px #0c0c0d0d, 0px 1px 4px 0px #0c0c0d1a;
+  --shadow-drop-shadow-300: 0px 4px 4px -1px #0c0c0d0d, 0px 4px 4px -1px #0c0c0d1a;
+  --shadow-drop-shadow-400: 0px 4px 4px -4px #0c0c0d0d, 0px 16px 32px -4px #0c0c0d1a;
+  --shadow-drop-shadow-500: 0px 4px 4px -4px #0c0c0d0d, 0px 16px 16px -8px #0c0c0d1a;
+  --shadow-drop-shadow-600: 0px 16px 32px -8px #0c0c0d66;
+  --shadow-inner-shadow-100: inset 0px 1px 4px 0px #0c0c0d0d;
+  --shadow-inner-shadow-200: inset 0px 1px 4px 0px #0c0c0d0d;
+  --shadow-inner-shadow-300: inset 0px 4px 4px -1px #0c0c0d0d;
+  --shadow-inner-shadow-400: inset 0px 16px 32px -4px #0c0c0d1a;
+  --shadow-inner-shadow-500: inset 0px 16px 16px -8px #0c0c0d1a;
+  --shadow-inner-shadow-600: inset 0px 16px 32px -8px #0c0c0d66;
+}
